@@ -44,4 +44,3 @@ After setting working directory, different files were read and then loaded to da
 
 Data from different files are loaded and merged into one. Using ddply function of plyr package, final tidy dataset was prepared with average of each variable for each activity and each subject.
 
-© Bhabuk Singh Kunwar 2015 All Rights reserved.
