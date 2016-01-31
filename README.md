@@ -17,4 +17,4 @@ run_analysis.R is the script that runs to combine data from different files to s
 
 3. Output file **averageTidyData.txt** is generated as final output of the script with 180 * 81 dimension.
 
-© Kishan K.C. 2015 All Rights reserved.
+© Bhabuk Singh Kunwar 2015 All Rights reserved.
