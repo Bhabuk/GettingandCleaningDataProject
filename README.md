@@ -13,8 +13,8 @@ run_analysis.R is the script that runs to combine data from different files to s
     3. Creates data frame with data combined from train, test, label and subject data
     4. Selects only measurements on the mean and standard deviation for each measurement.
     5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-    6. Writes the output to the file **averageTidyData.txt**.
+    6. Writes the output to the file **final_output.txt**.
 
-3. Output file **averageTidyData.txt** is generated as final output of the script with 180 * 81 dimension.
+3. Output file **final_output.txt** is generated as final output of the script with 180 * 81 dimension.
 
 © Bhabuk Singh Kunwar 2015 All Rights reserved.
