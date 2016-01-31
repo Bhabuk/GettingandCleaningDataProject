@@ -17,4 +17,3 @@ run_analysis.R is the script that runs to combine data from different files to s
 
 3. Output file **final_output.txt** is generated as final output of the script with 180 * 81 dimension.
 
-© Bhabuk Singh Kunwar 2015 All Rights reserved.
